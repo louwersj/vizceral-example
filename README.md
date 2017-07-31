@@ -26,4 +26,4 @@ $ docker build -t <name>/vizceral-example .
 $ docker run -p 41911:8080 -d <name>/vizceral-example
 ```
 
-Then you should be able to navigate to http://localhost:41911
+Then you should be able to navigate to http://localhost:41911 to access vizceral from outside of your docker container
